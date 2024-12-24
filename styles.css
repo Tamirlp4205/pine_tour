@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: #F4F4F4;
+
+}
+.container {
+    width: screen;
+
+}
+.Navbar {
+    background-color: black;
+    width: 100%;
+    flex: auto;
+    justify-content: center;
+
+}
+.Navbar img {
+    border : 1px solid white;
+}
